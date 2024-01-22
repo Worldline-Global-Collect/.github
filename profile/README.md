@@ -72,5 +72,5 @@ Accept instore payments
 - [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
 - 
 
-[🔝Go to top](#top)
+[⬆Go to top](#top)
 
