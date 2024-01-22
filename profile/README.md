@@ -1,11 +1,11 @@
 
-# Welcome to Worldline Global Collect
+# 👋 Welcome to Worldline Global Collect
 As a global business, you’ll appreciate the complexities of cross-border payments. Our goal is to simplify these payments to hundreds of merchants across the world via a global gateway, with local payment options that customers love. It enables your customers to pay in more ways than ever before.
 We offer an easy way to integrate using the Connect API
 
 This page contains the source code for all of our libraries, SDKs and plug-ins as well as our OpenAPI specifications. To find a list of example integrations for those, you can visit the Worldline global Collect examples GitHub page.
 
-## Useful resources for Worldline Global Collect
+## 📜 Useful resources for Worldline Global Collect
 
 - [Developers portal](https://docs.connect.worldline-solutions.com/)
 - [API reference](https://apireference.connect.worldline-solutions.com/s2sapi/v1/en_US/index.html?paymentPlatform=ALL)
@@ -14,7 +14,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 - [API explorer (pre-production)](https://api-explorer.preprod.account.ingenico.com/apiexplorer/)
 - [Sandbox](https://login.preprod.account.ingenico.com/auth/realms/SND_ingenico/protocol/openid-connect/auth?response_type=code&client_id=ConfigurationCenter&redirect_uri=https%3A%2F%2Fsandbox.account.ingenico.com&state=cd3b9860-8025-40d6-b878-a045084b78dc&login=true&scope=openid)
 
-##
+## 👩‍💻
 
 | Server SDKs                                                           | Client SDKs                                                                                           |  
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 | SAP         | 
 
 
-## Useful links for other worldline products 
+## 🌌 Useful links for other worldline products 
 
 Accept online payments
 
