@@ -40,7 +40,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 | VTEX        |
 | SAP         | 
 
-- [⬆Go to top](#top)
+[⬆Go to top](#top)
 
 ## 🌌 Useful links for other Worldline products 
 
