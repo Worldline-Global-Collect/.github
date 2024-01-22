@@ -72,5 +72,5 @@ Accept instore payments
 - [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
 - 
 
-<sub>Go to top</sub>](# 👋 Welcome to Worldline Global Collect)
+[Go to top](# 👋 Welcome to Worldline Global Collect)
 
