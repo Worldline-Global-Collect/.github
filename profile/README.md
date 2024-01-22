@@ -70,3 +70,7 @@ Accept instore payments
 - [Identification & Authentication](https://financial-services.developer.worldline.com/ita-overview)
 - [Digital asset management](https://financial-services.developer.worldline.com/dam-overview)
 - [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
+- 
+
+<sub>Go to top</sub>](# 👋 Welcome to Worldline Global Collect)
+
