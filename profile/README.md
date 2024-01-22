@@ -11,9 +11,9 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 ## 📜 Useful resources for Worldline Global Collect
 
-- [Developers portal](https://docs.connect.worldline-solutions.com/)
+- [Developer portal](https://docs.connect.worldline-solutions.com/)
 - [API reference](https://apireference.connect.worldline-solutions.com/s2sapi/v1/en_US/index.html?paymentPlatform=ALL)
-- [Developers tools](https://docs.connect.worldline-solutions.com/documentation/)
+- [Developer tools](https://docs.connect.worldline-solutions.com/documentation/)
 - [Getting started](https://docs.connect.worldline-solutions.com/getting-started/)
 - [API explorer (pre-production)](https://api-explorer.preprod.account.ingenico.com/apiexplorer/)
 - [Sandbox](https://login.preprod.account.ingenico.com/auth/realms/SND_ingenico/protocol/openid-connect/auth?response_type=code&client_id=ConfigurationCenter&redirect_uri=https%3A%2F%2Fsandbox.account.ingenico.com&state=cd3b9860-8025-40d6-b878-a045084b78dc&login=true&scope=openid)
@@ -40,7 +40,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 | SAP         | 
 
 
-## 🌌 Useful links for other worldline products 
+## 🌌 Useful links for other Worldline products 
 
 Accept online payments
 
