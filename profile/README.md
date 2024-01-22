@@ -1,6 +1,6 @@
 # ⚠️THIS ACCOUNT IS STILL UNDER MIGRATION⚠️
 PLEASE VISIT:
-- [Old GitHub account](https://github.com/Ingenico-ePayments))
+- [Old GitHub account](https://github.com/Ingenico-ePayments)
 
   
 # 👋 Welcome to Worldline Global Collect
