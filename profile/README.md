@@ -1,4 +1,8 @@
+# ⚠️THIS ACCOUNT IS STILL UNDER MIGRATION⚠️
+PLEASE VISIT:
+- [Old GitHub account](https://github.com/Ingenico-ePayments))
 
+  
 # 👋 Welcome to Worldline Global Collect
 As a global business, you’ll appreciate the complexities of cross-border payments. Our goal is to simplify these payments to hundreds of merchants across the world via a global gateway, with local payment options that customers love. It enables your customers to pay in more ways than ever before.
 We offer an easy way to integrate using the Connect API
