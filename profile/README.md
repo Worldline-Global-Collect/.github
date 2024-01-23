@@ -4,10 +4,10 @@ PLEASE VISIT:
 
 
 # 👋 Welcome to Worldline Global Collect
-As a global business, you’ll appreciate the complexities of cross-border payments. Our goal is to simplify these payments to hundreds of merchants across the world via a global gateway, with local payment options that customers love. It enables your customers to pay in more ways than ever before.
-We offer an easy way to integrate using the Connect API
+As a global business, you’ll appreciate our solutions for the complexities of cross-border payments. Our goal is to simplify these payments to hundreds of merchants across the world via a global gateway, with local payment options that customers love. It enables your customers to pay in more ways than ever before.
+We offer an easy way to integrate using the Connect API, SDKs, MyCheckout Hosted payment page and more. 
 
-This page contains the source code for all of our libraries, SDKs and plug-ins as well as our OpenAPI specifications. To find a list of example integrations for those, you can visit the Worldline global Collect examples GitHub page.
+This page contains the source code for all of our libraries, SDKs and plugins as well as our example apps for Android, iOS and web.
 
 ## 📜 Useful resources for Worldline Global Collect
 
@@ -18,7 +18,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 - [API explorer (pre-production)](https://api-explorer.preprod.account.ingenico.com/apiexplorer/)
 - [Sandbox](https://login.preprod.account.ingenico.com/auth/realms/SND_ingenico/protocol/openid-connect/auth?response_type=code&client_id=ConfigurationCenter&redirect_uri=https%3A%2F%2Fsandbox.account.ingenico.com&state=cd3b9860-8025-40d6-b878-a045084b78dc&login=true&scope=openid)
 
-[⬆Go to top](#top)
+[⬆Go to the top](#top)
 ## 👩‍💻
 
 | Server SDKs                                                           | Client SDKs                                                                                           |  
@@ -40,7 +40,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 | VTEX        |
 | SAP         | 
 
-[⬆Go to top](#top)
+[⬆Go to the top](#top)
 
 ## 🌌 Useful links for other Worldline products 
 
@@ -68,11 +68,11 @@ Accept instore payments
  Open banking
 - [Overview](https://financial-services.developer.worldline.com/open-banking/documentation?page=/node/240)
  
- Digital Services
+ Digital services
 - [Identification & Authentication](https://financial-services.developer.worldline.com/ita-overview)
 - [Digital asset management](https://financial-services.developer.worldline.com/dam-overview)
 - [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
 - 
 
-[⬆Go to top](#top)
+[⬆Go to the top](#top)
 
