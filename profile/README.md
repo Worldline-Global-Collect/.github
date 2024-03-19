@@ -1,8 +1,3 @@
-# ⚠️THIS ACCOUNT IS STILL UNDER MIGRATION⚠️
-PLEASE VISIT:
-- [Old GitHub account](https://github.com/Ingenico-ePayments)
-
-
 # 👋 Welcome to Worldline Global Collect
 As a global business, you’ll appreciate our solutions for the complexities of cross-border payments. Our goal is to simplify these payments to hundreds of merchants across the world via a global gateway, with local payment options that customers love. It enables your customers to pay in more ways than ever before.
 We offer an easy way to integrate using the Connect API, SDKs, MyCheckout Hosted payment page and more. 
@@ -17,6 +12,7 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 - [Getting started](https://docs.connect.worldline-solutions.com/getting-started/)
 - [API explorer (pre-production)](https://api-explorer.preprod.account.ingenico.com/apiexplorer/)
 - [Sandbox](https://login.preprod.account.ingenico.com/auth/realms/SND_ingenico/protocol/openid-connect/auth?response_type=code&client_id=ConfigurationCenter&redirect_uri=https%3A%2F%2Fsandbox.account.ingenico.com&state=cd3b9860-8025-40d6-b878-a045084b78dc&login=true&scope=openid)
+- [Old GitHub account](https://github.com/Ingenico-ePayments)
 
 [⬆Go to the top](#top)
 ## 👩‍💻
