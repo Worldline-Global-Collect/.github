@@ -38,29 +38,29 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 ## Plugins
 | Platform    |
 |-------------|
-| Salesforce  |
-| Magento2    | 
-| VTEX        |
-| SAP         | 
+| [Magento2](https://github.com/Ingenico-ePayments/connect-extension-magento2)   | 
+| [VTEX](https://docs.connect.worldline-solutions.com/documentation/Plugins/VTEX/)        |
 
 [⬆Go to the top](#top)
 
 ## 🌌 Useful links for other Worldline products 
+[Overview of all solutions](https://developer.worldline.com)
 
+### Solutions for merchants
 Accept online payments
-
-- Large Global business
+- Entreprise
   - You are at the right place  😃
 
-- European business (Worldline Global Online Pay)
+- European SMB business - Worldline Global Online Pay
   - [Overview](https://docs.direct.worldline-solutions.com/en/index)
 
-- Regional business
+- Regional SMB business
   - [Switzerland (Saferpay)](https://worldline.com/de-ch/home/top-navigation/developers/e-commerce-developer/developer.html)
 
 Accept instore payments
 - [Overview](https://docs.smartpos.worldline-solutions.com/)
 
+### Solutions for Financial Institutions
  Acquiring
 - [Overview](https://financial-services.developer.worldline.com/acquiring-overview)
 - [Product overview](https://financial-services.developer.worldline.com/acquiring/documentation?page=/acquiring)
@@ -75,7 +75,6 @@ Accept instore payments
 - [Identification & Authentication](https://financial-services.developer.worldline.com/ita-overview)
 - [Digital asset management](https://financial-services.developer.worldline.com/dam-overview)
 - [Stock data market overview](https://financial-services.developer.worldline.com/smd-overview)
-- 
 
 [⬆Go to the top](#top)
 
