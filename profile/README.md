@@ -44,7 +44,7 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 
 ### Solutions for merchants
 Accept online payments
-- Entreprise
+- Enterprise
   - You are at the right place  😃
 
 - European SMB business - Worldline Global Online Pay
