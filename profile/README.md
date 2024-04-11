@@ -34,7 +34,7 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 ## Plugins
 | Platform    |
 |-------------|
-| [Magento 2](https://github.com/Ingenico-ePayments/connect-extension-magento2)   | 
+| [Magento 2](https://github.com/Worldline-Global-Collect/connect-extension-magento2)   | 
 | [VTEX](https://docs.connect.worldline-solutions.com/documentation/Plugins/VTEX/)        |
 
 [⬆Go to the top](#top)
