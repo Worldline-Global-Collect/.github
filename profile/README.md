@@ -15,7 +15,7 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 - [Old GitHub account](https://github.com/Ingenico-ePayments)
 
 [⬆Go to the top](#top)
-## 👩‍💻
+## 👩‍💻 SDKs & example apps
 
 | Server SDKs                                                                       | Client SDKs                                                                                                         |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
