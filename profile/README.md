@@ -22,7 +22,7 @@ This page contains the source code for all of our libraries, SDKs and plugins as
 | [Java](https://github.com/Worldline-Global-Collect/connect-sdk-java)              | [Android](https://github.com/Worldline-Global-Collect/connect-sdk-client-android)                                   |
 | [PHP](https://github.com/Worldline-Global-Collect/connect-sdk-php)                | [Android Java example app](https://github.com/Worldline-Global-Collect/connect-sdk-client-android-example-java)     |
 | [Node.js](https://github.com/Worldline-Global-Collect/connect-sdk-nodejs)         | [Android Kotlin example app](https://github.com/Worldline-Global-Collect/connect-sdk-client-android-example-kotlin) |
-| [Node.js example](https://github.com/Worldline-Global-Collect/connect-sdk-nodejs) | [iOS Objective-C](https://github.com/Worldline-Global-Collect/connect-sdk-client-ios)                               |
+| [Node.js example](https://github.com/Worldline-Global-Collect/connect-sdk-nodejs-example) | [iOS Objective-C](https://github.com/Worldline-Global-Collect/connect-sdk-client-ios)                               |
 | [.NET](https://github.com/Worldline-Global-Collect/connect-sdk-dotnet)            | [iOS Objective-C example app](https://github.com/Worldline-Global-Collect/connect-sdk-client-ios-example)           |
 | [Python 2](https://github.com/Worldline-Global-Collect/connect-sdk-python2)       | [Swift](https://github.com/Worldline-Global-Collect/connect-sdk-client-swift)                                       |
 | [Python 3](https://github.com/Worldline-Global-Collect/connect-sdk-python3)       | [Swift example app](https://github.com/Worldline-Global-Collect/connect-sdk-client-swift-example)                   |
